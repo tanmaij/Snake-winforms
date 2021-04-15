@@ -1,0 +1,10 @@
+E:\demo\winform games\Snake\Snake\bin\Debug\Snake.exe.config
+E:\demo\winform games\Snake\Snake\bin\Debug\Snake.exe
+E:\demo\winform games\Snake\Snake\bin\Debug\Snake.pdb
+E:\demo\winform games\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+E:\demo\winform games\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+E:\demo\winform games\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+E:\demo\winform games\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+E:\demo\winform games\Snake\Snake\obj\Debug\Snake.exe
+E:\demo\winform games\Snake\Snake\obj\Debug\Snake.pdb
+E:\demo\winform games\Snake\Snake\obj\Debug\Snake.Game.resources
