@@ -21,7 +21,8 @@ namespace Snake
         {
 
             InitializeComponent();
-
+            this.Width = Const.Game_Width * Const.Unit_Game;
+            this.Height = Const.Gmae_Height * Const.Unit_Game;
             newGame();
 
         }

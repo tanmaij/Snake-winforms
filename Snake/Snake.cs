@@ -22,9 +22,9 @@ namespace Snake
             snake.Add(body1);
             this.snake[0].BackgroundImageLayout = ImageLayout.Stretch;
             this.snake[0].BackgroundImage = Image.FromFile("HEADright.png");
-            for (int i = 0; i < snake.Count; i++)
+            foreach(Body bod in this.snake)
             {
-                cave.Controls.Add(snake[i]);
+                cave.Controls.Add(bod);
             }
         }
 
